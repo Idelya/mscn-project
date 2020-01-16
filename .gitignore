@@ -345,5 +345,5 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/visualstudio
 
 # Solution and problem file
-.txt
-.csv
+*.txt
+*.csv
